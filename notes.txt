@@ -1,4 +1,8 @@
 This is the python project for telling jokes.
 Used Python and python trest cases.
+pyjokes : To get jokes
+random : Get random jokes
+Textbob : Rate the jokes
+emoji : Import emoji
 This code will be further developed.
 
