@@ -1,1 +1,4 @@
 This is the python project for telling jokes.
+Used Python and python trest cases.
+This code will be further developed.
+
